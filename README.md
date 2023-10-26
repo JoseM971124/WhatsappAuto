@@ -1,4 +1,4 @@
-# Enviador Mensagens do WhatsApp Automatico
+# Enviar Mensagens do WhatsApp Automatico
 
 Envie mensagens personalizadas do WhatsApp para vários contatos a partir de um arquivo Excel.
 
